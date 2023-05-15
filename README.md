@@ -43,3 +43,12 @@ Exemplo de configuração da VPC:
 		<li>Clique em "Criar" para criar a Máquina Virtual.
 	</ol>
 </table>
+
+Exemplo de configuração da Máquina Virtual:
+
+	Nome da instância: minha-vm
+	Região: us-central1
+	Zona: us-central1-a
+	Tipo de máquina: n1-standard-1
+	Disco de inicialização: Ubuntu 20.04 LTS
+	Rede: minha-vpc
