@@ -8,7 +8,7 @@ Como criar uma <b>VPC (Virtual Private Cloud)</b> e uma <b>Máquina Virtual (VM)
 		<li><a href="https://github.com/leostella97/vpc-vm-gcp#pr%C3%A9-requisitos">Pré-requisitos</a>
 		<li><a href="https://github.com/leostella97/vpc-vm-gcp#criando-uma-vpc">Criando uma VPC</a>
 		<li><a href="https://github.com/leostella97/vpc-vm-gcp#criando-uma-m%C3%A1quina-virtual">Criando uma Máquina Virtual</a>
-		<li>Conclusão
+		<li><a href="https://github.com/leostella97/vpc-vm-gcp#conclus%C3%A3o">Conclusão</a>
 </table>
 
 ## Pré-requisitos
@@ -60,4 +60,5 @@ Lembre-se de verificar as permissões e configurações adequadas e estar ciente
 
 ## Recursos adicionais
 <a href="https://cloud.google.com/docs">• Documentação do Google Cloud Platform</a>
+<br>
 <a href="https://console.cloud.google.com/">• Console do Google Cloud Platform</a>
