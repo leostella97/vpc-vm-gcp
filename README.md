@@ -52,3 +52,12 @@ Exemplo de configuração da Máquina Virtual:
 	Tipo de máquina: n1-standard-1
 	Disco de inicialização: Ubuntu 20.04 LTS
 	Rede: minha-vpc
+
+## Conclusão
+Neste tutorial estou ensinando como criar uma VPC e uma Máquina Virtual no Google Cloud Platform usando o Console do GCP. Agora você pode explorar mais recursos e personalizar suas configurações de acordo com as necessidades.
+
+Lembre-se de verificar as permissões e configurações adequadas e estar ciente dos custos aos recursos criados.
+
+## Recursos adicionais
+<a href="https://cloud.google.com/docs">• Documentação do Google Cloud Platform</a>
+<a href="https://console.cloud.google.com/">• Console do Google Cloud Platform</a>
