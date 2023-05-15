@@ -32,3 +32,14 @@ Exemplo de configuração da VPC:
 	Nome da VPC: minha-vpc
 	Região: us-central1
 	Intervalo de IP: 10.0.0.0/16
+
+## Criando uma Máquina Virtual
+<table>
+	<ol>
+		<li>Acesse o Console do GCP em https://console.cloud.google.com/.
+		<li>No painel de navegação à esquerda, clique em "Compute Engine" (Engine de Computação).
+		<li>Clique em "Criar instância".
+		<li>Preencha as informações necessárias, como nome da instância, região, zona, tipo de máquina, disco, rede e outras configurações.
+		<li>Clique em "Criar" para criar a Máquina Virtual.
+	</ol>
+</table>
