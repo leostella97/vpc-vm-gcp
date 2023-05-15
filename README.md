@@ -4,8 +4,9 @@
 Como criar uma <b>VPC (Virtual Private Cloud)</b> e uma <b>Máquina Virtual (VM)</b> usando o <b>Console do Google Cloud Platform (GCP)</b>.
 
 <table>
-	<li>Pré-requisitos
-	<li>Criando uma VPC
-	<li>Criando uma Máquina Virtual
-	<li>Conclusão
+	<ol>
+		<li>Pré-requisitos
+		<li>Criando uma VPC
+		<li>Criando uma Máquina Virtual
+		<li>Conclusão
 </table>
