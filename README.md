@@ -13,4 +13,5 @@ Como criar uma <b>VPC (Virtual Private Cloud)</b> e uma <b>Máquina Virtual (VM)
 
 ## Pré-requisitos
 • Uma conta ativa no Google Cloud Platform.
+<br>
 • Acesso ao Console do GCP.
