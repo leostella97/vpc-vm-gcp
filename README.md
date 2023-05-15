@@ -15,3 +15,14 @@ Como criar uma <b>VPC (Virtual Private Cloud)</b> e uma <b>Máquina Virtual (VM)
 • Uma conta ativa no Google Cloud Platform.
 <br>
 • Acesso ao Console do GCP.
+
+## Criando uma VPC
+<table>
+	<ol>
+		<li>Acesse o Console do GCP em https://console.cloud.google.com/.
+		<li>No painel de navegação à esquerda, clique em "VPC de rede".
+		<li>Em seguida, clique em "Criar VPC de rede".
+		<li>Preencha as informações necessárias, como nome da VPC, região, intervalo de IP e outras configurações.
+		<li>Clique em "Criar" para criar a VPC.
+	</ol>
+</table>
