@@ -6,7 +6,7 @@ Como criar uma <b>VPC (Virtual Private Cloud)</b> e uma <b>Máquina Virtual (VM)
 <table>
 	<ol>
 		<li><a href="https://github.com/leostella97/vpc-vm-gcp#pr%C3%A9-requisitos">Pré-requisitos</a>
-		<li>Criando uma VPC
+		<li><a href="https://github.com/leostella97/vpc-vm-gcp#criando-uma-vpc">Criando uma VPC</a>
 		<li>Criando uma Máquina Virtual
 		<li>Conclusão
 </table>
