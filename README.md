@@ -26,3 +26,9 @@ Como criar uma <b>VPC (Virtual Private Cloud)</b> e uma <b>Máquina Virtual (VM)
 		<li>Clique em "Criar" para criar a VPC.
 	</ol>
 </table>
+
+Exemplo de configuração da VPC:
+
+	Nome da VPC: minha-vpc
+	Região: us-central1
+	Intervalo de IP: 10.0.0.0/16
